@@ -1,7 +1,7 @@
 
 ### Hey there 👋!
 
-I'm [Nathan](https://instagram.com/nate_zek7), a Full-Stack Software Engineer based in Ethiopia, working remotely worldwide. <br>
+I'm [Nathan](https://instagram.com/nathezek), a Full-Stack Software Engineer based in Ethiopia, working remotely worldwide. <br>
 I enjoy building efficient and scalable applications.
 
 I'm currently exploring [Rust](https://doc.rust-lang.org/book/) for fun.
