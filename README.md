@@ -12,9 +12,9 @@ I'm available for hire or contract work. Say hi...[click here](mailto:nathezek7@
             <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
           `Typescript`, 
             <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          `JavaScript`, <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />`React`,
-            
-           `Next.js`, `Vue`, `Tailwind CSS`
+          `JavaScript`, <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />`React / Next JS`, 
+            <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+          `Tailwind CSS`
 * **Backend:** `Node.js`, `Express`, `Python`, `Rust`, `Bun`, `MongoDB`
 * **Cloud & DevOps:** `AWS`, `Cloudflare`, `Docker`
 * **Machine Learning:** `Python` (ML/AI stack), `Scikit-learn`, `Pandas`, `PyTorch`
