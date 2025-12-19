@@ -4,9 +4,8 @@
 I'm [Nathan](https://instagram.com/nate_zek7), a Full-Stack Software Engineer based in Ethiopia, working remotely worldwide. <br>
 I enjoy building efficient and scalable applications.
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 I'm currently exploring [
-            <i class="devicon-rust-original"></i>
+            <img width=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
           ](https://doc.rust-lang.org/book/) for fun.
 
 I'm available for hire or contract work. Say hi...[click here](mailto:nathezek7@gmail.com)
