@@ -30,7 +30,7 @@ I'm available for hire or contract work. Say hi...[click here](mailto:nathezek7@
             <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
           `Docker`
 * **Machine Learning:** `Python` (ML/AI stack), 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+            <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
           `Scikit-learn`, 
             <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
           `Pandas`, 
