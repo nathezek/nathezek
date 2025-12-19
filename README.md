@@ -9,9 +9,9 @@ I'm currently exploring [Rust](https://doc.rust-lang.org/book/) for fun.
 I'm available for hire or contract work. Say hi...[click here](mailto:nathezek7@gmail.com)
 
 * **Frontend:** 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+            <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
           `Typescript`, 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           `JavaScript`, <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />`React`,
             
            `Next.js`, `Vue`, `Tailwind CSS`
