@@ -15,6 +15,16 @@ I'm available for hire or contract work. Say hi...[click here](mailto:nathezek7@
           `JavaScript`, <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />`React / Next JS`, 
             <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
           `Tailwind CSS`
-* **Backend:** `Node.js`, `Express`, `Python`, `Rust`, `Bun`, `MongoDB`
-* **Cloud & DevOps:** `AWS`, `Cloudflare`, `Docker`
+* **Backend:** `Node.js/ Express`,
+            <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          `Python`, `Rust`, `Bun`, 
+            <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+          `MongoDB`
+* **Cloud & DevOps:** 
+            <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+          `AWS`, 
+            <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+          `Cloudflare`, 
+            <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+          `Docker`
 * **Machine Learning:** `Python` (ML/AI stack), `Scikit-learn`, `Pandas`, `PyTorch`
