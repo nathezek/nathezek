@@ -5,8 +5,6 @@ I'm [Nathan](https://instagram.com/nathezek), a Full-Stack Software Engineer bas
 I enjoy building efficient and scalable applications.
 
 I'm currently exploring [<img width=18 src="https://skillicons.dev/icons?i=rust" />
-  </a>
-</p>
  Rust](https://doc.rust-lang.org/book/) for fun.
 
 I'm available for hire or contract work. [Say hi](mailto:nathezek7@gmail.com)
