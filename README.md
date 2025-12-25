@@ -17,7 +17,8 @@ I'm available for hire or contract work. [Say hi](mailto:nathezek7@gmail.com)
             <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
           `Node.js/ Express`,
             <img width=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          `Python`, <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_Logo.svg" alt="Rust logo" />
+          `Python`, <img width="16" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/rust.svg" alt="Rust logo" />
+
 `Rust`, `Bun`, 
             <img width=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
           `MongoDB`
