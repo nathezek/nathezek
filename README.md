@@ -6,7 +6,7 @@ I enjoy building efficient and scalable applications.
 
 I'm currently exploring [Rust](https://doc.rust-lang.org/book/) for fun.
 
-I'm available for hire or contract work. <a href="mailto:nathezek7@gmail.com">Say hi</a>
+I'm available for hire or contract work. [Say hi](mailto:nathezek7@gmail.com)
 
 * **Frontend:** 
             <img width=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
