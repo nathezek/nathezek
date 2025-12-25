@@ -4,7 +4,10 @@
 I'm [Nathan](https://instagram.com/nathezek), a Full-Stack Software Engineer based in Ethiopia, working remotely worldwide. <br>
 I enjoy building efficient and scalable applications.
 
-I'm currently exploring [Rust](https://doc.rust-lang.org/book/) for fun.
+I'm currently exploring [<img width=18 src="https://skillicons.dev/icons?i=rust" />
+  </a>
+</p>
+ Rust](https://doc.rust-lang.org/book/) for fun.
 
 I'm available for hire or contract work. [Say hi](mailto:nathezek7@gmail.com)
 
@@ -17,7 +20,7 @@ I'm available for hire or contract work. [Say hi](mailto:nathezek7@gmail.com)
             <img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
           `Node.js/ Express`,
             <img width=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          `Python`, <img width=16 src="https://skillicons.dev/icons?i=rust" />
+          `Python`, <img width=17 src="https://skillicons.dev/icons?i=rust" />
   </a>
 </p>
 `Rust`, `Bun`, 
